@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.top {
+    text-align: center;
+}
+.top input {
+    margin-top: 10px;
+}
+.top button {
+    padding: 0px 30px;
+}
+.todos {
+    text-align: center;
+}
+.todoRemoveButton {
+    margin-left: 10px;
+    margin-right: 5px;
+}
